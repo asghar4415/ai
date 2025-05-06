@@ -6,6 +6,7 @@ Contains implementations for:
 3. Job Scheduling Problem
 """
 
+
 from ortools.sat.python import cp_model
 
 # ====================== 1. N-Queens Problem ======================
